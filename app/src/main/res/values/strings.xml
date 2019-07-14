@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about_text">About ALC</string>
+    <string name="profile_text">My profile</string>
+    <string name="track">Track</string>
+    <string name="country">Country</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="my_name">Wilfred Dube</string>
+    <string name="phone_number_value">+263 777 961 088</string>
+    <string name="track_value">Android</string>
+    <string name="country_value">Zimbabwe</string>
+    <string name="email_value">wilfreddube@gmail.com</string>
+    <string name="slack_name_value">\@wilfreddube</string>
+    <string name="verified_user_icon">verified user icon</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="email_icon">email icon</string>
+    <string name="location_icon">location icon</string>
+    <string name="track_icon">track icon</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="share_profile">Share Profile</string>
+    <string name="my_projects">My Projects</string>
+    <string name="reload">Reload</string>
+    <string name="save">Save</string>
+    <string name="title_activity_edit_profile">Edit Profile</string>
+    <string name="name_surname">Your name</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="hero_image">hero image</string>
+</resources>

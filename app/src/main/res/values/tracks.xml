@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alc_tracks">
+        <item>Android Track</item>
+        <item>Google Cloud Track</item>
+        <item>Mobile Web Track</item>
+    </string-array>
+</resources>
